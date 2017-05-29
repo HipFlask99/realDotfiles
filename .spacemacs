@@ -317,6 +317,7 @@ before packages are loaded. If you are unsure, you should try in setting them in
 
 (defun dotspacemacs/user-config ()
   (setq-default evil-escape-key-sequence "eu")
+  (setq-default evil-escape-key-sequence "uu")
   (setq-default evil-escape-delay 0.2)
 
   (define-key global-map (kbd "C-+") 'text-scale-increase)
