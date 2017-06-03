@@ -3,7 +3,7 @@ alias ,='ls -a'
 alias ..='cd .. && ls -a'
 alias t='tmux'
 alias pm='sudo pm-suspend'
-
+alias sapt='sudo apt-get update && sudo apt-get -y upgrade'
 alias df='df -Tha --total'
 
 alias h='htop'

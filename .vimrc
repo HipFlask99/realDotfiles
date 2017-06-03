@@ -1,4 +1,4 @@
-imap eu <Esc>
+imap uu <Esc>
 map <Esc><Esc> :w<CR>
 
 colorscheme ron
