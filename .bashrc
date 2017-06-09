@@ -78,6 +78,7 @@ alias gm='git commit -m'
 alias ga='git add -A'
 alias h='htop'
 alias sad='sudo dnf update && sudo dnf -y upgrade'
+alias sapt='sudo apt-get update && sudo apt-get -y upgrade'
 alias yin='sudo dnf install'
 #ls after cd
 c() { cd "$@" && ls; }
