@@ -79,6 +79,8 @@ alias ga='git add -A'
 alias h='htop'
 alias sad='sudo dnf update && sudo dnf -y upgrade'
 alias yin='sudo dnf install'
+alias sag='sudo apt-get install'
+
 #ls after cd
 c() { cd "$@" && ls; }
 #test
