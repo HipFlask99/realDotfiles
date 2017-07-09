@@ -5,7 +5,7 @@ alias t='tmux'
 alias pm='sudo pm-suspend'
 alias sapt='sudo apt-get update && sudo apt-get -y upgrade'
 alias df='df -Tha --total'
-
+alias sag='sudo apt-get install'
 alias h='htop'
 
 alias vi='vim'
